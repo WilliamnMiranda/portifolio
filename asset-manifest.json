@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.35335ff1.chunk.css",
+    "main.js": "/static/js/main.4fb5b137.chunk.js",
+    "main.js.map": "/static/js/main.4fb5b137.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.1a2172cd.js",
+    "runtime-main.js.map": "/static/js/runtime-main.1a2172cd.js.map",
+    "static/js/2.704b8b05.chunk.js": "/static/js/2.704b8b05.chunk.js",
+    "static/js/2.704b8b05.chunk.js.map": "/static/js/2.704b8b05.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.35335ff1.chunk.css.map": "/static/css/main.35335ff1.chunk.css.map",
+    "static/js/2.704b8b05.chunk.js.LICENSE.txt": "/static/js/2.704b8b05.chunk.js.LICENSE.txt",
+    "static/media/animesPequeno.bde1194b.png": "/static/media/animesPequeno.bde1194b.png",
+    "static/media/Skills.module.css": "/static/media/cc.d57c762f.gif",
+    "static/media/apresentacao.module.css": "/static/media/eu.bc56bafe.jpg",
+    "static/media/lojaPequena.808aaea5.png": "/static/media/lojaPequena.808aaea5.png",
+    "static/media/pedidosPequeno.d1e188a9.png": "/static/media/pedidosPequeno.d1e188a9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a2172cd.js",
+    "static/js/2.704b8b05.chunk.js",
+    "static/css/main.35335ff1.chunk.css",
+    "static/js/main.4fb5b137.chunk.js"
+  ]
+}

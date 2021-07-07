@@ -3,7 +3,7 @@ import style from './../css/apresentacao.module.css'
 const TextApresentacao = () => {
     return (
         <article className = {style.textApresentacao}>
-           <h1  className = {style.tittleApresentacao}>Um pouco sobre min</h1>
+           <h1  className = {style.tittleApresentacao}>Um pouco sobre mim</h1>
            <span className = {style.descricaoApresentacao}>Me chamo William , tenho 22 anos , e desde pequeno tenho uma paixao por tecnologia,
             comecei a programar ainda bem cedo em servidores de GTA Online (samp),além da paixao por tecnologia tambem sou apaixonado por esportes e animais .
             <span>

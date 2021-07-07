@@ -1,0 +1,51 @@
+.containerQualidades{
+    text-align:center;
+    width: 60%;
+    margin: 0px auto;
+}
+.containerQualidades h1{
+    color: #084B8A;
+    font-family: Courier;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-left: 90px;
+    text-align:center;
+    font-size:2.9em;
+}
+
+.containerQualidade{
+    display:flex;
+    width:100%;
+    flex-wrap: wrap;
+    justify-content:space-between;
+    margin-top:20px;
+}
+.qualidade{
+    width: 32%;
+    display:flex;
+    align-items:center;
+    flex-direction: column;
+}
+.nomeQualidade{
+    font-family: Courier;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-family: Courier;
+    color:white;
+    font-size:2.1em;
+    font-weight:bold;
+    margin-bottom: 10px;
+}
+.icone{
+    color:#084B8A;
+    font-size:5.0em;
+}
+.descricaoQualidade{
+    display:block;
+    font-family: Garamond;
+    text-align: justify;
+    font-weight: 300;
+    font-size: 1.2em;
+    color:white;
+    max-width: 100%;
+}

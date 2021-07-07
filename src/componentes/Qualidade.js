@@ -1,10 +1,21 @@
 import React from 'react'
-
-const Qualidade = () => {
+import style from './../css/qualidade.module.css'
+const Qualidade = ({nome,descricao,Icon}) => {
     return (
-        <div>
-            a
-        </div>
+       <section className = {style.qualidade}>
+           
+           <div className = {style.nomeQualidade}>
+               {nome}
+           </div>
+
+            <div className = {style.icone}>
+                {Icon}
+            </div>
+
+            <div className = {style.descricaoQualidade}>
+                {descricao}
+            </div>
+       </section>
     )
 }
 

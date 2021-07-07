@@ -1,7 +1,7 @@
 import React from 'react'
 import Apresentacao from './componentes/Apresentacao.js'
 import Skills from './componentes/Skills.js'
-import Qualidade from './componentes/Qualidade.js'
+import Qualidades from './componentes/Qualidades.js'
 import Projetos from './componentes/Projetos.js'
 function App() {
   return (
@@ -9,7 +9,7 @@ function App() {
       <Apresentacao/>
       <Skills/>
       <Projetos/>
-      <Qualidade/>
+      <Qualidades/>
     </main>
   );
 }

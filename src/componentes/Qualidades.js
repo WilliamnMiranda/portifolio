@@ -8,7 +8,7 @@ import style from './../css/qualidade.module.css'
 let qualidades = [
     {
         nome:"Boas Praticas",
-        descricao:"Utilizando as melhores praticas e tecnologias em seu produto garantindo a qualidade e a facil manutencao",
+        descricao:"Utilizando as melhores praticas e tecnologias garantindo a qualidade e a facil manutencao",
         Icon:<BiCodeAlt/>,
     },
     {

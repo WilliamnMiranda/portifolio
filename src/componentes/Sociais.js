@@ -23,7 +23,7 @@ const Sociais = () => {
                 </div>
 
                 <div  className = {style.itemSocial}>
-                    <a href="https://api.whatsapp.com/send?phone=55219972059102&text=Ola%20%2C%20entrei%20em%20contato%20pelo%20link%20do%20seu%20portf%C3%B3lio.">
+                    <a href="https://api.whatsapp.com/send?phone=5521972059102&text=Ola%20%2C%20entrei%20em%20contato%20pelo%20link%20do%20seu%20portf%C3%B3lio">
                         <img src = {Wpp}/>
                     </a>
                 </div>

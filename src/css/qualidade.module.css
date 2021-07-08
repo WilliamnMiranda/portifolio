@@ -49,3 +49,88 @@
     color:white;
     max-width: 100%;
 }
+
+
+
+@media (max-width: 768px) {
+
+    .containerQualidades{
+        text-align:center;
+        width: 100%;
+    }
+    .containerQualidades h1{
+        margin-top: 20px;
+        color: #084B8A;
+        font-family: Courier;
+        font-weight: bold;
+        text-transform: uppercase;
+        margin-left: 10px;
+        text-align:center;
+        font-size:2.2em;
+    }
+    
+    .containerQualidade{
+        display:flex;
+        width:100%;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content:center;
+        margin-top:20px;
+    }
+    .qualidade{
+        width: 90%;
+        display:flex;
+        align-items:center;
+        flex-direction: column;
+    }
+    .nomeQualidade{
+        font-family: Courier;
+        font-weight: bold;
+        text-transform: uppercase;
+        font-family: Courier;
+        color:white;
+        font-size:2.1em;
+        font-weight:bold;
+        margin-bottom: 10px;
+    }
+    .icone{
+        color:#084B8A;
+        font-size:5.0em;
+    }
+    .descricaoQualidade{
+        display:block;
+        font-family: Garamond;
+        text-align: justify;
+        font-weight: 300;
+        font-size: 1.2em;
+        color:white;
+        max-width: 100%;
+    }
+    
+
+}
+
+
+@media (min-width: 769px) and (max-width:1300px) { 
+    .nomeQualidade{
+        font-family: Courier;
+        font-weight: bold;
+        text-transform: uppercase;
+        font-family: Courier;
+        color:white;
+        font-size:1.5em;
+        font-weight:bold;
+        margin-bottom: 10px;
+    }
+
+    .descricaoQualidade{
+        display:block;
+        font-family: Garamond;
+        text-align: justify;
+        font-weight: 300;
+        font-size: 1.0em;
+        color:white;
+        max-width: 100%;
+    }
+}
+

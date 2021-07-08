@@ -125,3 +125,61 @@
 
 
  }
+
+ @media (min-width: 769px) and (max-width:1300px) { 
+    .descricaoApresentacao{
+        padding: 0px 5px;
+        font-family: Garamond;
+        text-align: justify;
+        font-weight: 300;
+        font-size: 1.1em;
+        color:white;
+    }
+
+
+    .sobre{
+        display:flex;
+        align-items: center;
+        justify-content:space-between;
+        width: 60%;
+        height: 100%;
+        margin:0 auto;
+    }
+
+    .descricaoApresentacao{
+        padding: 0px 5px;
+        font-family: Garamond;
+        text-align: justify;
+        font-weight: 300;
+        font-size: 1.0em;
+        color:white;
+    }
+
+    .tittleApresentacao{
+        font-family: Courier;
+        font-weight: bold;
+        text-transform: uppercase;
+        font-family: Courier;
+        color:#084B8A;
+        font-size:1.7em;
+        font-weight:bold;
+        margin-bottom: 10px;
+        
+    }
+
+    .textApresentacao{
+        width:60%;
+        height:300px;
+    }
+
+    .sobre{
+        display:flex;
+        align-items: center;
+        justify-content:space-between;
+        width: 50%;
+        height: 100%;
+        margin:0 auto;
+        gap:20px;
+    }
+
+ }

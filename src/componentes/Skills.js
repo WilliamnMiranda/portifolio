@@ -25,7 +25,7 @@ const Skills = () => {
         },
         {
             nome:"PHP",
-            skill:50,
+            skill:35,
         },
         {
             nome:"React",
